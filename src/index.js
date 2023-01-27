@@ -10,3 +10,4 @@ after.innerHTML = JSON.stringify(manipulatedData, null, 2);
 
 //TODO: add the manipulated data array to the 'after' div.
 
+console.log("hello world");
